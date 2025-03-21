@@ -1,0 +1,43 @@
+### Footprint positions - created on 2025-03-19T09:08:34-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val               Package                                             PosX       PosY       Rot  Side
+G***      LOGO              pcb_way_logo                                     34.4212    14.7796   90.0000  bottom
+C1        DNI               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      36.5932    14.3132  180.0000  top
+C2        10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      33.1614    22.6398  -90.0000  top
+C3        2.2uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      17.9786     7.7218   90.0000  top
+C4        10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      23.2158     8.7802    0.0000  top
+C5        22uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      27.3302    10.9938   90.0000  top
+C6        2.2uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      20.1678    12.0058    0.0000  top
+C7        2.2uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      19.7146    22.6058  -90.0000  top
+C8        22uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      31.7150    19.6042  180.0000  top
+C9        1uF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      13.4030    25.0094  -90.0000  top
+C10       10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      10.9010    25.0602  -90.0000  top
+C11       10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      31.2758    11.4650   90.0000  top
+C12       10uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       8.3662     9.2498    0.0000  top
+C13       1uF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      13.0874     9.1902  180.0000  top
+C14       2.2uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       4.4006    23.2238    0.0000  top
+C15       2.2uF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      20.7074    25.9290  180.0000  top
+C16       100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       8.3074    25.0274  -90.0000  top
+C17       100nF             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      24.8582    22.7394  -90.0000  top
+D1        DNI               Zener_MiniMELF                                   33.8666     8.1518    0.0000  top
+D2        DNI               Zener_MiniMELF                                   33.8158     5.7146    0.0000  top
+D3        LED_Small_Filled  LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    36.7706    25.1030    0.0000  top
+J1        Conn_01x03        PinHeader_1x03_P2.54mm_Vertical                   1.7518    18.9458    0.0000  top
+J2        Conn_01x08        PinHeader_1x08_P2.54mm_Vertical                  10.2798     1.5554   90.0000  top
+R1        100K              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      33.6966    11.4762   90.0000  top
+R2        9K1               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      31.7370    15.5758    0.0000  top
+R3        9K1               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      31.7546    17.4950  180.0000  top
+R4        20K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      23.0866    13.0002   90.0000  top
+R5        1K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      20.2092    15.5344    0.0000  top
+R6        100K              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      27.8846    25.0138    0.0000  top
+R7        10K               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      27.8938    21.7766  180.0000  top
+R8        1K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      31.1026    22.6614  -90.0000  top
+R9        9K1               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       4.4560    25.2972  180.0000  top
+R10       3K3               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      16.7178    25.9530  180.0000  top
+R11       4K7               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      36.7470    18.5512    0.0000  top
+R12       4K7               R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      36.7492    21.9294    0.0000  top
+U1        NE5532            SOIC-8_3.9x4.9mm_P1.27mm                         27.0422    16.7806   90.0000  top
+U2        SA572             SOIC-16W_7.5x10.3mm_P1.27mm                      12.6666    16.8010   90.0000  top
+## End
